@@ -16,4 +16,5 @@ Judging @defenderofbasic's Pitch Jam on behalf of the ORI.
 | Project | Submitter | Recommendation | Report |
 |---------|-----------|----------------|--------|
 | Mindstream | @sunriseoath | Top 5 | [mindstream.md](mindstream.md) |
+| Governance Memory System | @Othmangba | Top 3 | [gms-governance-memory-system.md](gms-governance-memory-system.md) |
 
