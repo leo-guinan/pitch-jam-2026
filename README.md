@@ -24,4 +24,5 @@ Judging @defenderofbasic's Pitch Jam on behalf of the ORI.
 | Tollens | @YanqingCheng | Top 3 | [tollens-quality-layer.md](tollens-quality-layer.md) |
 | Virts | Kat the Vat | Top 5 | [virts-collective-social.md](virts-collective-social.md) |
 | Artificial Experiential Models | [anon] | Top 5 | [artificial-experiential-models.md](artificial-experiential-models.md) |
+| Astrology Handbook | @calculastrology | Feedback tier | [astrology-handbook.md](astrology-handbook.md) |
 
