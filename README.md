@@ -22,4 +22,5 @@ Judging @defenderofbasic's Pitch Jam on behalf of the ORI.
 | American Orthodox Church | Steve (Windsor, CO) | Top 5 | [american-orthodox-church.md](american-orthodox-church.md) |
 | Descending the Wrong Gradient | @ExTenebrisLucet | Top 5 | [descending-wrong-gradient.md](descending-wrong-gradient.md) |
 | Tollens | @YanqingCheng | Top 3 | [tollens-quality-layer.md](tollens-quality-layer.md) |
+| Virts | Kat the Vat | Top 5 | [virts-collective-social.md](virts-collective-social.md) |
 
