@@ -9,7 +9,39 @@ Judging @defenderofbasic's Pitch Jam on behalf of the ORI.
 
 ---
 
-## Final Scorecard
+## ⚠️ Scoring Updated — v2 (March 12, 2026)
+
+v1 produced 7 tied Top 3s. Per @suntzugi's valid criticism, scoring has been rebuilt with explicit weighted criteria.
+
+**[→ See full v2 scoring with EV calculations and counterfactuals](scoring-v2.md)**
+
+Criteria (100 pts): Artifact 30 / EV 20 / Validation 20 / Ask Calibration 15 / Counterfactual 10 / ORI Fit 5
+
+### v2 Rankings (numeric scores)
+
+| Rank | Score | Project | Submitter | Report |
+|------|-------|---------|-----------|--------|
+| 🥇 1 | 85 | **Innovation Lens** | innovationlens.org | [innovation-lens.md](innovation-lens.md) |
+| 🥈 2 | 79 | **Tollens** | @YanqingCheng | [tollens-quality-layer.md](tollens-quality-layer.md) |
+| 🥉 3 | 76 | **Infinite Kingdom (CLT)** | Rex / DaKing | [infinite-kingdom.md](infinite-kingdom.md) |
+| 4 | 75 | Governance Memory System | @Othmangba | [gms-governance-memory-system.md](gms-governance-memory-system.md) |
+| 5 | 74 | Memoria.uy | memoria.uy | [memoria-uy.md](memoria-uy.md) |
+| 6 | 71 | Collective Cognition | patcon | [collective-cognition.md](collective-cognition.md) |
+| 7 | 62 | Neodore / Formalizing Morality | @suntzugi | [neodore-formalizing-morality.md](neodore-formalizing-morality.md) |
+| 7 | 62 | MetaSPN / Marvin *(conflict disclosed)* | @leo_guinan | [metaspn-marvin-ori-member.md](metaspn-marvin-ori-member.md) |
+| 9 | 57 | Descending the Wrong Gradient | @ExTenebrisLucet | [descending-wrong-gradient.md](descending-wrong-gradient.md) |
+| 10 | 55 | Artificial Experiential Models | [anon] | [artificial-experiential-models.md](artificial-experiential-models.md) |
+| 11 | 50 | American Orthodox Church | Steve (Windsor, CO) | [american-orthodox-church.md](american-orthodox-church.md) |
+| 12 | 48 | Virts | Kat the Vat | [virts-collective-social.md](virts-collective-social.md) |
+| 13 | 43 | Mindstream | @sunriseoath | [mindstream.md](mindstream.md) |
+| 14 | 40 | NUU Cognition | NUU Cognition | [nuu-cognition.md](nuu-cognition.md) |
+| ⭐ | 32 | Astrology Handbook | @calculastrology | [astrology-handbook.md](astrology-handbook.md) |
+
+---
+
+## v1 Scorecard (original, preserved for calibration)
+
+*v1 used implicit weighting and binary tiers. Kept here for outcome tracking.*
 
 | Rank | Project | Submitter | Recommendation | Report |
 |------|---------|-----------|----------------|--------|
@@ -85,22 +117,22 @@ Criteria used: pre-registration posture, falsifiability, clarity of ask, evidenc
 
 When @defenderofbasic announces results, actual outcomes will be logged here against predictions. Every miss will be documented.
 
-| Submission | Predicted | Actual | Delta |
-|---|---|---|---|
-| Innovation Lens | Top 3 | TBD | — |
-| GMS | Top 3 | TBD | — |
-| Tollens | Top 3 | TBD | — |
-| MetaSPN / Marvin | Top 3 | TBD | — |
-| Collective Cognition | Top 3 | TBD | — |
-| Memoria.uy | Top 3 | TBD | — |
-| Infinite Kingdom | Top 3 (tied) | TBD | — |
-| Mindstream | Top 5 | TBD | — |
-| AOC | Top 5 | TBD | — |
-| Descending Wrong Gradient | Top 5 | TBD | — |
-| Virts | Top 5 | TBD | — |
-| Artificial Experiential Models | Top 5 | TBD | — |
-| Neodore | Top 5 | TBD | — |
-| Astrology Handbook | Feedback tier | TBD | — |
-| NUU Cognition | Honorable mention | TBD | — |
+| Submission | v1 Predicted | v2 Score/Rank | Actual | Delta |
+|---|---|---|---|---|
+| Innovation Lens | Top 3 | 85 / #1 | TBD | — |
+| Tollens | Top 3 | 79 / #2 | TBD | — |
+| Infinite Kingdom | Top 3 (tied) | 76 / #3 | TBD | — |
+| GMS | Top 3 | 75 / #4 | TBD | — |
+| Memoria.uy | Top 3 | 74 / #5 | TBD | — |
+| Collective Cognition | Top 3 | 71 / #6 | TBD | — |
+| Neodore | Top 5 | 62 / #7 | TBD | — |
+| MetaSPN / Marvin | Top 3 | 62 / #7 | TBD | — |
+| Descending Wrong Gradient | Top 5 | 57 / #9 | TBD | — |
+| Artificial Experiential Models | Top 5 | 55 / #10 | TBD | — |
+| AOC | Top 5 | 50 / #11 | TBD | — |
+| Virts | Top 5 | 48 / #12 | TBD | — |
+| Mindstream | Top 5 | 43 / #13 | TBD | — |
+| NUU Cognition | Honorable mention | 40 / #14 | TBD | — |
+| Astrology Handbook | Feedback tier | 32 / ⭐ | TBD | — |
 
-*Calibration score will be computed when actuals are known.*
+*Calibration score will be computed against v2 rankings when actuals are known.*
