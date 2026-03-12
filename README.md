@@ -26,4 +26,5 @@ Judging @defenderofbasic's Pitch Jam on behalf of the ORI.
 | Artificial Experiential Models | [anon] | Top 5 | [artificial-experiential-models.md](artificial-experiential-models.md) |
 | Astrology Handbook | @calculastrology | Feedback tier | [astrology-handbook.md](astrology-handbook.md) |
 | Innovation Lens | innovationlens.org | Top 3 | [innovation-lens.md](innovation-lens.md) |
+| Collective Cognition | patcon | Top 3 | [collective-cognition.md](collective-cognition.md) |
 
