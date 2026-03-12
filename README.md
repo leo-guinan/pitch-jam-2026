@@ -19,4 +19,5 @@ Judging @defenderofbasic's Pitch Jam on behalf of the ORI.
 | Governance Memory System | @Othmangba | Top 3 | [gms-governance-memory-system.md](gms-governance-memory-system.md) |
 | The Infinite Kingdom | Rex / DaKing | Top 3 (tied) | [infinite-kingdom.md](infinite-kingdom.md) |
 | NUU Cognition | NUU Cognition | Honorable mention | [nuu-cognition.md](nuu-cognition.md) |
+| American Orthodox Church | Steve (Windsor, CO) | Top 5 | [american-orthodox-church.md](american-orthodox-church.md) |
 
